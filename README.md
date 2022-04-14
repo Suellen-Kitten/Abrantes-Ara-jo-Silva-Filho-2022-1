@@ -6,11 +6,13 @@ Monitoria - Suellen Miranda Amorim 2022/1
 ## Máquinas Vituais
 Use uma dessas opções (são gratuítas, mas se quiser usar outra que não estejam nesta lista não tem problema.)
 
-//[VMware](https://www.vmware.com/br/products/workstation-player/workstation-player-evaluation.html) Experimente o Workstation 16.0 Player para Windows 
+[VMware](https://www.vmware.com/br/products/workstation-player/workstation-player-evaluation.html) Experimente o Workstation 16.0 Player para Windows 
 
-//[VirtualBox](https://www.virtualbox.org/) VirtualBox is a community effort backed by a dedicated company: everyone is encouraged to contribute while Oracle ensures the product always meets professional quality criteria. 
+[VirtualBox](https://www.virtualbox.org/) VirtualBox is a community effort backed by a dedicated company: everyone is encouraged to contribute while Oracle ensures the product always meets professional quality criteria. 
 
 //Para maquina virtual é bom ter linux como sistema operacional, e também para usar o sql server.
+
+[Ubuntu 20.04.4 LTS](https://ubuntu.com/download/desktop) Download Ubuntu Desktop - imagem
 
 
 ## O que poderá ser necessário 
