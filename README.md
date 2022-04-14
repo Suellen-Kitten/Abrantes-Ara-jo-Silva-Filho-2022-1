@@ -30,5 +30,5 @@ import SQL
 ## Método que pedirá isso
 Pset's, Trabalhos, etc.
 
-## License
+## Sites Usados (recomendados a dar uma olhada)
 [Make a README](https://www.makeareadme.com/)
