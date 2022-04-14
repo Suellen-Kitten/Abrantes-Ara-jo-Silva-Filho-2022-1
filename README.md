@@ -19,22 +19,22 @@ Use uma dessas opções (são gratuítas, mas se quiser usar outra que não este
 
 <table border="1">    
   <tr>
-    <th colspan="2">Lista</th>
+    <th colspan="2">Gerenciamento de Bancos de Dados (SGBD)</th>
   </tr>        
   <tr>
-    <td>oracle data base</td>
+    <td>Oracle</td>
   </tr>
   <tr>
-    <td>mysql</td>
+    <td>MySQL</td>
   </tr>
   <tr>
-    <td>mariadb</td>
+    <td>MariaBD</td>
   </tr>
   <tr>
-    <td>postgreeSQL</td>
+    <td>PostgreeSQL</td>
   </tr>
   <tr>
-    <td>microsoft sql server</td>
+    <td>MS SQL Server</td>
   </tr>
   <tr>
     <td>phpmyadimin</td>
