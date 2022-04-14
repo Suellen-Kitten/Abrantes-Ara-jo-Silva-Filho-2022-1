@@ -62,4 +62,5 @@ Pset's, Trabalhos, etc.
 
 ## Sites Usados (recomendados a dar uma olhada)
 [Make a README](https://www.makeareadme.com/) "template" READ.ME do GitHub
+
 [Computação Raiz](https://www.computacaoraiz.com.br/) Computação, matemática, algoritmos, programação e tecnologia.
