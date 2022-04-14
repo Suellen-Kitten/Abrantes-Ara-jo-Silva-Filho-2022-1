@@ -6,9 +6,9 @@ Monitoria - Suellen Miranda Amorim 2022/1
 ## Máquinas Vituais
 Use uma dessas opções (são gratuítas, mas se quiser usar outra que não estejam nesta lista não tem problema.)
 
-//[pip](URL) MV1
+//[VMware](https://www.vmware.com/br/products/workstation-player/workstation-player-evaluation.html) Experimente o Workstation 16.0 Player para Windows 
 
-//[pip](URL) MV2
+//[VirtualBox](https://www.virtualbox.org/) VirtualBox is a community effort backed by a dedicated company: everyone is encouraged to contribute while Oracle ensures the product always meets professional quality criteria. 
 
 //Para maquina virtual é bom ter linux como sistema operacional, e também para usar o sql server.
 
