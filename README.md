@@ -10,6 +10,8 @@ Use uma dessas opções (são gratuítas, mas se quiser usar outra que não este
 
 //[pip](URL) MV2
 
+//Para maquina virtual é bom ter linux como sistema operacional, e também para usar o sql server.
+
 
 ## O que poderá ser necessário 
 
